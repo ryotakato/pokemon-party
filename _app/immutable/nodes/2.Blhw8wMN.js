@@ -1,0 +1,1 @@
+import{a as t,f as e}from"../chunks/BWHhM1iE.js";import{N as r}from"../chunks/BoyJjPm4.js";r();var m=e('<h1 class="text-2xl font-bold p-4">ポケモンパーティ管理</h1>');function l(o){var a=m();t(o,a)}export{l as component};
